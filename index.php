@@ -1,6 +1,6 @@
 <?php
-echo  "<h1>Welcome to Php Deployed on Openshift."
-echo  "<h2>This page will display some details about the server page." 
+echo  "<h1>Welcome to Php Deployed on Openshift.";
+echo  "<h2>This page will display some details about the server page." ;
 echo "<h2>Server Name new:  <br>";
 echo $_SERVER['SERVER_NAME'];
 echo "<br>";
